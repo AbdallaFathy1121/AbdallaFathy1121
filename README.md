@@ -8,17 +8,12 @@ Abdallah</a></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Full-Stack(.NET) developer from EGY, Colleg of Computers and Information.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💡 &nbsp;Full-Stack .NET developer from Egypt.\
+🎓 &nbsp;I'm currently studying at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.\
+🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, and Design Patterns.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
