@@ -41,14 +41,19 @@ Abdallah</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdallah-fathy-70a323206/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+	 </a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/AbdallaFathy1121">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+	 </a>
 	 		
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/abdallah_fathy1121/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://abdullah-portfolio-1121.netlify.app/">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+	 </a>
+		
+	 <a style="margin-left: 10px;" target="_blank" href="https://abdullah-portfolio-1121.netlify.app/">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
+	 </a>
       </div>
 
 </p>
