@@ -45,7 +45,7 @@ Abdallah</a></h1>
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
 	 </a>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/abdala.fathy.54/">
-			<img style="width: 50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
+			<img style="width: 35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
 	 </a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdallah-fathy-70a323206/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
