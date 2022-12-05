@@ -54,7 +54,7 @@ Abdallah</a></h1>
 		<img src="https://img.icons8.com/plasticine/0.5x/resume.png">
 	 </a>
 	 		
-      </div>
+      
 
 </p>
 
