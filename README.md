@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://abdullah-portfolio-1121.netlify.app/" target="blank">
 Abdallah</a></h1>
-<h3 align="center">A passionate Web developer &#127470;&#127475</h3>
+<h3 align="center">A talented developer with a passion for web development.</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
