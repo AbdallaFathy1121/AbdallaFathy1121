@@ -11,10 +11,11 @@ Abdallah</a></h1>
 💡 &nbsp;Full-Stack .NET developer from Egypt.\
 🎓 &nbsp;I'm currently studying at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, and Design Patterns.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at abdallafathy1023@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my Portfolio(https://abdullah-portfolio-1121.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 <br/>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
