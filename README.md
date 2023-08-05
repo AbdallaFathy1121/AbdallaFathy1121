@@ -18,10 +18,13 @@ Abdallah</a></h1>
 
 ### 🛠 &nbsp;Tech Stack
 
-<a href="https://www.w3schools.com/cs/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> 
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="csharp" width="40" height="40" /> 
+</a>
+
 			    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 			<a href="https://www.figma.com/" target="_blank"
