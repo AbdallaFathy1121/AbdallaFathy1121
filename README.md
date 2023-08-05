@@ -9,7 +9,7 @@ Abdallah</a></h1>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Full-Stack .NET developer from Egypt.\
-🎓 &nbsp;I'm currently studying at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.\
+🎓 &nbsp;I studyied at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, and Design Patterns.\
 ✉️ &nbsp;You can shoot me an email at abdallafathy1023@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://abdullah-portfolio-1121.netlify.app/) for more details about me. I'm open to feedback and suggestions!
