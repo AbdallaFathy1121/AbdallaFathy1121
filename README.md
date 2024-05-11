@@ -15,6 +15,7 @@ Abdallah</a></h1>
 📄 &nbsp;Please have a look at my [Portfolio](https://flourishing-speculoos-4f833f.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 <br/>
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,11 +39,6 @@ Abdallah</a></h1>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-05122A?logo=visual-studio&style=for-the-badge)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
-
-
-
-
 
 <br/>
 
