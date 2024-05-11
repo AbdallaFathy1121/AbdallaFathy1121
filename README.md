@@ -23,11 +23,12 @@ Abdallah</a></h1>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![Sql Server](https://img.shields.io/badge/SQL-SQL%20Server-05122A?style=for-the-badge&logo=sqlserver)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
+![My Sql Server](https://img.shields.io/badge/My SQl-SQL%20Server-05122A?style=for-the-badge&logo=mysqlserver)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
