@@ -48,7 +48,7 @@ Abdallah</a></h1>
 	
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 <a style="margin-left: 5px;" target="_blank" href="https://flourishing-speculoos-4f833f.netlify.app/">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
+					<img src="https://cdn-icons-png.flaticon.com/512/9948/9948580.png" >
 	 </a>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/abdala.fathy.54/">
 			<img style="width: 35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
