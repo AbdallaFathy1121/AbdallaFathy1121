@@ -28,7 +28,7 @@ Abdallah</a></h1>
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![Sql Server](https://img.shields.io/badge/SQL-SQL%20Server-05122A?style=for-the-badge&logo=sqlserver)&nbsp;
-![My Sql Server](https://img.shields.io/badge/My SQl-SQL%20Server-05122A?style=for-the-badge&logo=mysqlserver)&nbsp;
+![My Sql Server](https://img.shields.io/badge/MySQl-SQL%20Server-05122A?style=for-the-badge&logo=mysqlserver)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
