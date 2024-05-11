@@ -27,14 +27,16 @@ Abdallah</a></h1>
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=C%20%23)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![EF](https://img.shields.io/badge/EF-05122A?style=for-the-badge&logo=Entity-Framework)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
+![Identity](https://img.shields.io/badge/Identity-05122A?style=for-the-badge&logo=Identity)&nbsp;
+![LINQ](https://img.shields.io/badge/LINQ-05122A?style=for-the-badge&logo=LINQ)&nbsp;
 ![Sql Server](https://img.shields.io/badge/SQL-SQL%20Server-05122A?style=for-the-badge&logo=sqlserver)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-05122A?logo=visual-studio&style=for-the-badge)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 
