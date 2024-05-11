@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://abdullah-portfolio-1121.netlify.app/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://flourishing-speculoos-4f833f.netlify.app/" target="blank">
 Abdallah</a></h1>
 <h3 align="center">A talented developer with a passion for web development.</h3>
 
@@ -47,7 +47,7 @@ Abdallah</a></h1>
 	
 	
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-	 <a style="margin-left: 5px;" target="_blank" href="https://abdullah-portfolio-1121.netlify.app/">
+	 <a style="margin-left: 5px;" target="_blank" href="https://flourishing-speculoos-4f833f.netlify.app/">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
 	 </a>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/abdala.fathy.54/">
