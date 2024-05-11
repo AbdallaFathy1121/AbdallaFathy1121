@@ -30,7 +30,7 @@ Abdallah</a></h1>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&?logo=.NET)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=.NET)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
