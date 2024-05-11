@@ -3,7 +3,7 @@ Abdallah</a></h1>
 <h3 align="center">A talented developer with a passion for web development.</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="170" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 ### 👨🏻‍💻 &nbsp;About Me
