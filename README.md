@@ -18,20 +18,6 @@ Abdallah</a></h1>
 
 ### 🛠 &nbsp;Tech Stack
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> 
-</a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-	<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> 
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
-</a>
-<a  rel="noreferrer"> 
-	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="csharp" width="40" height="40" /> 
-</a>
-
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -48,10 +34,6 @@ Abdallah</a></h1>
 
 
 <br/>
-
-
-
-![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
