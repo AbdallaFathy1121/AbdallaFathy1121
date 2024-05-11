@@ -15,7 +15,6 @@ Abdallah</a></h1>
 📄 &nbsp;Please have a look at my [Portfolio](https://flourishing-speculoos-4f833f.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 <br/>
-<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
