@@ -26,10 +26,10 @@ Abdallah</a></h1>
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
+![C#](https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=C%20%23)&nbsp;
+![EF](https://img.shields.io/badge/EF-05122A?style=for-the-badge&logo=Entity-Framework)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![Sql Server](https://img.shields.io/badge/SQL-SQL%20Server-05122A?style=for-the-badge&logo=sqlserver)&nbsp;
-![My Sql Server](https://img.shields.io/badge/MySQl-SQL%20Server-05122A?style=for-the-badge&logo=mysqlserver)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
