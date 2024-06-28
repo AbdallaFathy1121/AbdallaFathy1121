@@ -110,8 +110,6 @@ Portfolio</a> for more details about me. I'm open to feedback and suggestions!</
 
 ###
 
-</br></br>
-
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
