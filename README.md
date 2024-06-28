@@ -109,3 +109,11 @@ Portfolio</a> for more details about me. I'm open to feedback and suggestions!</
 </div>
 
 ###
+
+</br></br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/Nada-Assem/Nada-Assem/blob/main/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
