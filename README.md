@@ -1,72 +1,116 @@
-<h1 align="center">Hi 👋, I'm <a href="https://flourishing-speculoos-4f833f.netlify.app/" target="blank">
-Abdallah</a></h1>
-<h3 align="center">A talented developer with a passion for web development.</h3>
+<h2 align="center">Hi 👋, I'm <a href="https://flourishing-speculoos-4f833f.netlify.app/" target="blank">
+Abdallah</a></h2>
 
+###
 
+<h4 align="center">A talented developer with a passion for web development.</h4>
 
-### 👨🏻‍💻 &nbsp;About Me
+###
 
-💡 &nbsp;Full-Stack (.NET & Angular) developer from Egypt.\
-🎓 &nbsp;I studied at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.\
-🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, and Design Patterns.\
-✉️ &nbsp;You can shoot me an email at abdallafathy1023@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://flourishing-speculoos-4f833f.netlify.app/) for more details about me. I'm open to feedback and suggestions!
+<h3 align="left">👨🏻‍💻  About Me</h3>
 
-<br/>
+###
 
-### 🛠 &nbsp;Tech Stack
+<p align="left">💡  Full-Stack (.NET & Angular) developer from Egypt.<br>🎓  I studied at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.<br>🌱  I'm on track for learning more about Web Development, Systems Design, and Design Patterns.<br>✉️  You can shoot me an email at abdallafathy1023@gmail.com I'll try to respond as soon as I can.<br>📄  Please have a look at my [Portfolio](https://flourishing-speculoos-4f833f.netlify.app/) for more details about me. I'm open to feedback and suggestions!</p>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=C%20%23)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET%20Core-05122A?style=for-the-badge&logo=.NET)&nbsp;
-![EF](https://img.shields.io/badge/EF-05122A?style=for-the-badge&logo=Entity-Framework)&nbsp;
-![Identity](https://img.shields.io/badge/Identity-05122A?style=for-the-badge&logo=Identity)&nbsp;
-![LINQ](https://img.shields.io/badge/LINQ-05122A?style=for-the-badge&logo=LINQ)&nbsp;
-![Sql Server](https://img.shields.io/badge/SQL-SQL%20Server-05122A?style=for-the-badge&logo=sqlserver)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-05122A?logo=visual-studio&style=for-the-badge)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)&nbsp;
+###
 
-<br/>
+<p align="left"></p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+###
 
-<p align="center">
-	
-	
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-	 <a style="margin-left: 5px;" target="_blank" href="https://flourishing-speculoos-4f833f.netlify.app/">
-					<img  style="width: 35px" src="https://cdn-icons-png.flaticon.com/512/1527/1527096.png" >
-	 </a>
-	 <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/abdala.fathy.54/">
-			<img style="width: 35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
-	 </a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdallah-fathy-70a323206/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-	 </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AbdallaFathy1121">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-	</a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/abdallah_fathy1121/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-	 </a>
-		
-	
+<h3 align="left">🛠  Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="35" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="35" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="35" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" alt="xd logo"  />
 </div>
 
-</p>
+###
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<hr>
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<p align="left"></p>
 
+###
+
+<h3 align="left">🤝 Connect with me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdallah-fathy-70a323206/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="abdallafathy1023@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/abdala.fathy.54/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/abdallah_fathy1121/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdallaFathy1121&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallaFathy1121&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AbdallaFathy1121/AbdallaFathy1121/output/snake.svg" alt="Snake animation" />
+
+###
