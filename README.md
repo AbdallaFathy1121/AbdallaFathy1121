@@ -11,7 +11,7 @@ Abdallah</a></h1>
 
 ###
 
-<p align="left">💡  Full-Stack (.NET & Angular) developer from Egypt.<br>🎓  I studied at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.<br>🌱  I'm on track for learning more about Web Development, Systems Design, and Design Patterns.<br>✉️  You can shoot me an email at abdallafathy1023@gmail.com I'll try to respond as soon as I can.<br>📄  Please have a look at my <a href="https://abdalluh-fathy-protfolio.netlify.app" target="blank">
+<p align="left">💡  Full-Stack (.NET & Angular) developer from Egypt.<br>🎓  I studied at the Faculty of Computers and Information, Department of Software Engineering, Kafr El-Sheikh University.<br>🌱  I'm on track for learning more about Web Development, Systems Design, and Design Patterns.<br>✉️  You can shoot me an email at abdallafathy1023@gmail.com I'll try to respond as soon as I can.<br>📄  Please have a look at my <a href="https://abdalluh-fathy-protfolio.netlify.app" target="_blank">
 Portfolio</a> for more details about me. I'm open to feedback and suggestions!</p>
 
 ###
